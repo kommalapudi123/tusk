@@ -6,6 +6,8 @@ kheer
 paasta
 sukhi
 
+beans 
+pizza
 
 
 thank you
